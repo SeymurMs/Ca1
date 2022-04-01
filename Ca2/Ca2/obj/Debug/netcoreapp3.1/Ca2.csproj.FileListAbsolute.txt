@@ -1,0 +1,14 @@
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.exe
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.deps.json
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.runtimeconfig.json
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.runtimeconfig.dev.json
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.dll
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\bin\Debug\netcoreapp3.1\Ca2.pdb
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.csproj.AssemblyReference.cache
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.AssemblyInfoInputs.cache
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.AssemblyInfo.cs
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.csproj.CoreCompileInputs.cache
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.dll
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.pdb
+C:\Users\tu5zlmzfj\source\repos\Ca2\Ca2\obj\Debug\netcoreapp3.1\Ca2.genruntimeconfig.cache
